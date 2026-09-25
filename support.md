@@ -11,7 +11,7 @@ Support for My Pace Fitness, My Pace Body, and My Pace Nutrition.
 
 For help, questions, or feedback, email:
 
-**[Your support email address]**
+**adelarosa@adlrventure.com**
 
 Please include the app name, device model, and iOS version when reporting a problem.
 
